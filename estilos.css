@@ -1,0 +1,44 @@
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+form {
+    display: inline-block;
+    text-align: left;
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+    margin-right: 10px;
+}
+
+input[type="number"] {
+    width: 80px;
+}
+
+select {
+    width: 100px;
+}
+
+button {
+    margin-left: 160px;
+    margin-top: 10px;
+    font-size: 18px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+#resultado {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
